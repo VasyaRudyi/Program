@@ -6,5 +6,5 @@
 
 user_name = input("Enter your name: ")
 user_age = input("Enter your age: ")
-print (f"{user_name} has {user_age} - Hello World!")
+print (f"{user_name} has {user_age}. Hello World!")
 
