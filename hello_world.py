@@ -1,7 +1,5 @@
-# take in the user's name using input() function
-# print it using print() function
-# do the same with user's age
-# print out Hello World using print() funciton
+# take in the user's name and age using input() function
+# print out name and age and after Hello World using print() funciton in one line
 
 
 user_name = input("Enter your name: ")
