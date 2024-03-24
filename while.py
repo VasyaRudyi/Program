@@ -32,7 +32,7 @@ average = 0
 while num != -1:
     num_raw = input("Enter a number (-1 to quit):")
     while not isfloat(num_raw):
-         num_raw = input("Enter a valid number (-1 to quit):")
+        num_raw = input("Enter a valid number (-1 to quit):")
     num = float(num_raw)
     total = total + num
     times = times + 1
